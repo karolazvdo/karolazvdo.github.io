@@ -1,9 +1,65 @@
 ---
-title: "About"
+title: "Research"
 ---
 
-About this site
+## Biodiversity and Conservation research
 
-```{r}
-1 + 1
-```
+#2024
+
+-   *Assessing the political vulnerability of National Parks in sub‐Saharan Africa using data on digital trends and engagement* ([**Link**](https://doi.org/10.1002/pan3.10730))
+
+    ~Karoline\ Azevedo;\ Fernanda\ Alves-Martins;\ Javier\ Martinez-Arribas;\ Ricardo\ A\ Correia;\ Ana\ Cláudia\ M\ Malhado;\ Richard\ Ladle~
+
+    ~People\ and\ Nature~
+
+#2022
+
+-   *Public awareness and engagement in relation to the coastal oil spill in northeast Brazil* ([**Link**](https://doi.org/10.1590/0001-3765202220210395))
+
+    ~João\ A\ G\ R\ Almeida;\ Jhonatan\ Guedes-Santos;\ Felipe\ A\ S\ Vieira;\ Karoline\ Azevedo;\ Carolina\ N\ Souza;\ Barbara\ R\ Pinheiro;\ Ricardo\ A\ Correia;\ Ana\ Cláudia\ M\ Malhado;\ Richard\ Ladle~
+
+    ~Annals\ of\ the\ Brazilian\ Academy\ of\ Sciences~
+
+-   *A big data approach to identify the loss of coastal cultural ecosystem services caused by the 2019 Brazilian oil spill disaster* ([**Link**](https://doi.org/10.1590/0001-3765202220210397))
+
+    ~Karoline\ Azevedo;\ Felipe\ A\ S\ Vieira;\ Jhonatan\ Guedes-Santos;\ João\ A\ G\ R\ Almeida;\ Barbara\ R\ Pinheiro;\ Chiara\ Bragagnolo;\ Ricardo\ A\ Correia;\ Richard\ Ladle;\ Ana\ Cláudia\ M\ Malhado~
+
+    ~Annals\ of\ the\ Brazilian\ Academy\ of\ Sciences~
+
+#2021
+
+-   *Urbanization effects on morphological traits of Eriphia gonagra (Decapoda, Eriphiidae) in tropical intertidal reefs of the Northeastern Brazil* ([**Link**](https://panamjas.org/pdf_artigos/PANAMJAS_16(2)_141-149.pdf))
+
+    ~Karoline\ Azevedo;\ Rafael\ B\ de\ Castro;\ Victor\ Emmanuel\ Lopes\ da\ Silva;\ Tereza\ Cristina\ Calado~
+
+    ~Pan-American\ Journal\ of\ Aquatic\ Sciences~
+
+-   *Macrobrachium amazonicum (Crustacea: Decapoda: Palaemonidae) shows a polyphasic growth pattern in the Lower São Francisco River, Northeastern Brazil* ([**Link**](https://panamjas.org/pdf_artigos/PANAMJAS_16(1)_52-56.pdf))
+
+    ~Rafael\ B\ de\ Castro;\ Karoline\ Azevedo\ Farias\ Victor\ Emmanuel\ Lopes\ da\ Silva;\ Tereza\ Cristina\ Calado~
+
+    ~Pan-American\ Journal\ of\ Aquatic\ Sciences~
+
+## Science communication
+
+#2025
+
+-   *Conservation with Innovation: the animated series “Mar à Vista!”* ([**Link**](https://doi.org/10.14295/remea.v41i3.17499))
+
+    ~Luana\ Almeida;\ Karoline\ Azevedo;\ Maria\ Villanova;\ Ana\ Cláudia\ M\ Malhado~
+
+    ~REMEA\ -\ Revista\ Eletrônica\ do\ Mestrado\ em\ Educação\ Ambiental~
+
+#2024
+
+-   *Arte e Educação Ambiental: a experiência da Coletânea Histórias para Colorir a Alma* ([**Link**](https://doi.org/10.34024/revbea.2024.v19.18810))
+
+    ~Karoline\ Azevedo;\ Luana\ Almeida;\ Fernanda\ Alves-Martins;\ Bruna\ Maria\ Barbosa\ da\ Rosa;\ Ana\ Cláudia\ M\ Malhado~
+
+    ~Revista\ Brasileira\ de\ Educação\ Ambiental\ (RevBEA)~
+
+-   *Criança com Ciência: dialogando com a curiosidade* ([**Link**](https://doi.org/10.34024/revbea.2024.v19.18809))
+
+    ~Karoline\ Azevedo;\ Luana\ Almeida;\ Tiago\ Peres;\ Ana\ Cláudia\ M\ Malhado~
+
+    ~Revista\ Brasileira\ de\ Educação\ Ambiental\ (RevBEA)~

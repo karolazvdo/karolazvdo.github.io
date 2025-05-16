@@ -2,7 +2,7 @@
 title: "Karoline Azevedo"
 image: avatar.JPG
 about: 
-  template: jolla
+  template: trestles
   image-width: 10em
   image-shape: round
   id: my-heading
@@ -21,14 +21,8 @@ about:
       href: https://www.linkedin.com/in/karoline-azevedo-946873145/
 ---
 
-: : : {#my-heading}
+::: {#my-heading}
 
-I'm a biologist and biodiversity researcher, currently completing my PhD. My work focuses on knowledge shortfalls, macroecology, and human-nature interactions, with an emphasis on protected areas and environmental perception. I'm also a science communicator and environmental educator, bringing ecology and conservation closer to young audiences and the broader public.
+*A biologist and biodiversity researcher, currently completing my PhD. My work focuses on knowledge shortfalls, macroecology, and human-nature interactions, with an emphasis on protected areas and environmental perception. I'm also a science communicator and environmental educator, bringing ecology and conservation closer to young audiences and the broader public.*
 
-## Education
-
-Federal University of Alagoas \| Alagoas - BR
-
-Bachelor's degree in Biological Sciences (2017) and Master's degree in Biological Sciences with a focus on biodiversity (2020).
-
-: : :
+:::
