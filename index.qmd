@@ -1,5 +1,5 @@
 ---
-title: "karolazvdo.github.io"
+title: "Karoline Azevedo"
 ---
 
 This is a Quarto website.
