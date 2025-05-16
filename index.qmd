@@ -1,11 +1,34 @@
 ---
 title: "Karoline Azevedo"
+image: avatar.JPG
+about: 
+  template: jolla
+  image-width: 10em
+  image-shape: round
+  id: my-heading
+  links: 
+    - text: Email
+      icon: envelope-at
+      href: mailto:karolineakaf@gmail.com
+    - text: Github
+      icon: github
+      href: https://github.com/karolazvdo/
+    - text: ResearchGate
+      icon: r-circle
+      href: https://www.researchgate.net/profile/Karoline-Azevedo/
+    - text: Linkedin
+      icon: linkedin
+      href: https://www.linkedin.com/in/karoline-azevedo-946873145/
 ---
 
-This is a Quarto website.
+: : : {#my-heading}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a biologist and biodiversity researcher, currently completing my PhD. My work focuses on knowledge shortfalls, macroecology, and human-nature interactions, with an emphasis on protected areas and environmental perception. I'm also a science communicator and environmental educator, bringing ecology and conservation closer to young audiences and the broader public.
 
-```{r}
-1 + 1
-```
+## Education
+
+Federal University of Alagoas \| Alagoas - BR
+
+Bachelor's degree in Biological Sciences (2017) and Master's degree in Biological Sciences with a focus on biodiversity (2020).
+
+: : :

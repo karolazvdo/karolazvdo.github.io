@@ -4,7 +4,14 @@
     "href": "index.html",
     "title": "Karoline Azevedo",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": ": : : {#my-heading}\nI’m a biologist and biodiversity researcher, currently completing my PhD. My work focuses on knowledge shortfalls, macroecology, and human-nature interactions, with an emphasis on protected areas and environmental perception. I’m also a science communicator and environmental educator, bringing ecology and conservation closer to young audiences and the broader public."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Karoline Azevedo",
+    "section": "Education",
+    "text": "Education\nFederal University of Alagoas | Alagoas - BR\n\nBachelor’s degree in Biological Sciences (2017) and Master’s degree in Biological Sciences with a focus on biodiversity (2020).\n\n: :"
   },
   {
     "objectID": "about.html",
